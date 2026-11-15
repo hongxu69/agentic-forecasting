@@ -18,6 +18,10 @@ All of this is implemented in
 > `DartsLightGBMPredictor` call site elsewhere is unaffected unless it opts
 > in. See §11.
 >
+> **Just want the headline results?** See
+> [`lightgbm-tuning-project-summary.md`](lightgbm-tuning-project-summary.md)
+> for a one-page overview of what was built and the stress_2020 CRPS gains.
+>
 > **Running this against more than one `EXPERIMENT_CONFIG`?** Read
 > [`lgbm-tuning-scenario-backtest-2025.md`](lgbm-tuning-scenario-backtest-2025.md)
 > and [`lgbm-tuning-scenario-stress-2020.md`](lgbm-tuning-scenario-stress-2020.md)
